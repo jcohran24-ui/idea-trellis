@@ -1,5 +1,5 @@
 # Idea Trellis: approved affiliate links
-As of 2026-10-10, the site has the user-provided systeme.io tracking link configured. Public redirect successfully tested and led to systeme.io with sa and sc tracking parameters. Commission attribution has NOT been proven by a referral purchase. Shopify and Kit links remain unconfigured.
+As of 2026-10-10, the site has the user-provided systeme.io tracking link configured. Public redirect successfully tested and led to systeme.io with sa and sc tracking parameters. Commission attribution has NOT been proven by a referral purchase. Shopify has a user-provided Impact tracking link configured and redirect-tested. Kit links remain unconfigured.
 
 ## systeme.io
 1. Linked user-provided referral URL: https://systeme.io/tr/2/161/15056344105/39837047/447807792e1392d2a8c0533efc41603aadbd41b00
@@ -9,9 +9,10 @@ As of 2026-10-10, the site has the user-provided systeme.io tracking link config
 Reference: https://help.systeme.io/article/328-how-to-create-an-affiliate-link-from-a-system-io-blog-post
 
 ## Shopify
-1. Apply at https://www.shopify.com/affiliates
-2. After approval, sign in to Impact and generate your Shopify affiliate link.
-3. Set partners.shopify.affiliate to the full approved link in affiliate-links.js.
+1. The user provided https://shopify.pxf.io/qWq0nY from Impact's Create and Share Link feature.
+2. Verified it redirects to the official Shopify free-trial landing page with Impact referral parameters (partner ID present).
+3. Configured partners.shopify.affiliate with this exact short link in affiliate-links.js.
+4. Verify campaign clicks, qualified conversions and payouts in the authenticated Impact dashboard; redirect verification does not prove a credited signup or sale.
 Reference: https://growthcenter.shopify.com/blogs/getting-started/how-to-create-an-affiliate-link
 
 ## Kit
