@@ -17,4 +17,10 @@ Independent educational website for people starting an online business. Includes
 The calculator and checklist run in the browser. No email collection, cookie analytics, or account registration is configured on this website.
 
 ## Migration
-Copied from the isolated `venture-atlas-affiliate/affiliate-venture-atlas` folder in `jcohran24-ui/work-hub`. The original project was preserved and should be left intact until the new deployment is verified.
+Copied from the isolated `main/affiliate-venture-atlas` folder in `jcohran24-ui/work-hub`. The original project was preserved and should be left intact until the new deployment is verified.
+
+## Live site
+https://idea-trellis.onrender.com — Render service `srv-db5320vavr4c73f9hetg`.
+
+Source is the standalone repository: https://github.com/jcohran24-ui/idea-trellis.
+The legacy work-hub project and old Render URL remain untouched for rollback.
