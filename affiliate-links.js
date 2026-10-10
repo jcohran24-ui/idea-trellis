@@ -2,7 +2,7 @@
 (()=>{"use strict";
 const partners=Object.freeze({
   systeme:{official:"https://systeme.io/",affiliate:"https://systeme.io/tr/2/161/15056344105/39837047/447807792e1392d2a8c0533efc41603aadbd41b00"},
-  shopify:{official:"https://www.shopify.com/",affiliate:null},
+  shopify:{official:"https://www.shopify.com/",affiliate:"https://shopify.pxf.io/qWq0nY"},
   kit:{official:"https://kit.com/",affiliate:null}
 });
 document.querySelectorAll("a[data-affiliate]").forEach(link=>{
