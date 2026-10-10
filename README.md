@@ -10,7 +10,8 @@ Independent educational website for people starting an online business. Includes
 
 ## Affiliate links
 - Systeme.io: user-supplied referral link installed in `affiliate-links.js` and verified to redirect to systeme.io with referral parameters.
-- Shopify and Kit: official non-affiliate links until approved personalized referral links are obtained.
+- Shopify: user-supplied Impact tracking link https://shopify.pxf.io/qWq0nY installed on website and verified to redirect to Shopify's free-trial page with attribution parameters.
+- Kit: official non-affiliate links until an approved personalized referral link is obtained.
 - Current commission attribution and payouts can only be confirmed through each partner's dashboard.
 
 ## Visitor privacy
